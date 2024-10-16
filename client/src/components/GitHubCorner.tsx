@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/VikramR8"
+            href="https://github.com/VikramR8/Synced-Script"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
